@@ -1,4 +1,4 @@
-# 온앤오프 (OnOff)
+# 온앤오프 (On&Off)
 
 <p align='center'><img src="https://github.com/EungBug/eungbug.github.io/assets/108085046/5cb5fdb5-89b1-4a8d-9280-ad5b86f7b7ee"></p>
 
